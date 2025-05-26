@@ -7,10 +7,11 @@ AnimeVox is an English Text-to-Speech (TTS) dataset featuring 11,020 audio clips
 The dataset was created and processed using **[TTSizer](https://github.com/taresh18/TTSizer)**, an open-source tool that automates creating high-quality TTS datasets from raw media.
 
 **Dataset Links:**
-- 🤗 [Hugging Face Dataset](https://huggingface.co/datasets/taresh18/AnimeVox)
-- 📊 [Kaggle Dataset](https://www.kaggle.com/datasets/tareshrajput/animevox)
+- 🤗 [Hugging Face](https://huggingface.co/datasets/taresh18/AnimeVox)
+- 📊 [Kaggle](https://www.kaggle.com/datasets/tareshrajput/animevox)
 
 **Watch the Demo Video:**
+
 [![AnimeVox Dataset Demo Video](https://img.youtube.com/vi/POwMVTwsZDQ/hqdefault.jpg)](https://youtu.be/POwMVTwsZDQ?si=rxNy7grLyROhdIEd)
 
 ## 📊 Dataset Statistics
