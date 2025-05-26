@@ -1,5 +1,7 @@
 # 🎧 AnimeVox: Character TTS Corpus ✨
 
+![Banner](assets/banner.jpeg)
+
 ## 🗣️ Dataset Overview
 
 AnimeVox is an English Text-to-Speech (TTS) dataset featuring 11,020 audio clips from 19 distinct anime characters across popular series. Each clip includes a high-quality transcription, character name, and anime title, making it ideal for voice cloning, custom TTS model fine-tuning, and character voice synthesis research.
