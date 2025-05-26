@@ -1,6 +1,6 @@
 # 🎧 AnimeVox: Character TTS Corpus ✨
 
-![Banner](assets/banner.jpeg)
+![Banner](assets/banner1.jpeg)
 
 ## 🗣️ Dataset Overview
 
