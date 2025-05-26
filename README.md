@@ -1,4 +1,4 @@
-# 🎧 AnimeVox: Character TTS Corpus
+# 🎧 AnimeVox: Character TTS Corpus ✨
 
 ## 🗣️ Dataset Overview
 
@@ -22,7 +22,7 @@ The dataset was created and processed using **[TTSizer](https://github.com/tares
 - **Audio format:** 44.1kHz mono WAV
 - **Storage size:** ~3.5GB
 
-## 🎧 Dataset Structure
+## 🏗️ Dataset Structure
 
 * **Instances:** Each sample is a dictionary with the following structure:
   ```python
