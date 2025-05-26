@@ -1,4 +1,4 @@
-# AnimeVox: Character TTS Corpus
+# 🎧 AnimeVox: Character TTS Corpus
 
 ## 🗣️ Dataset Overview
 
